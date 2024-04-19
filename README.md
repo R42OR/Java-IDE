@@ -13,18 +13,6 @@ Tools/Technologies: JavaScript, NodeJS, HTML, CSS, Jquery , Javascript , Bootstr
 5. Open the browser with this link http://localhost:2000/
 ```
 
-## Screenshots :crown:
-Desktop View             |  Mobile View
-:-------------------------:|:-------------------------:
-![](Photos/Screenshot 2024-04-20 012907.png)  |  ![](Photos/Screenshot 2024-04-20 013002.png)
-
-
-## Help Contributing Guides :bangbang:
-
-I love to have different `issues` and `pull request` for the betterment of this project.
-
-Please discuss it with me first, before creating any pull request [new-issue](https://github.com/rishabhgarg25699/CodeBox-ONLINE_IDE/issues/new).
-
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ## Features to be added :arrow_up:
@@ -32,8 +20,23 @@ Please discuss it with me first, before creating any pull request [new-issue](ht
 - Submissions Page - Last Compile And Run Code will be present in the site
 - Login And Logout - Site secured by Login and Logout authentication using Passport.js
 
-## Contact With Me :busts_in_silhouette:
+## My LinkedIn Profile
 
-- Telegram - https://t.me/Rishabhhello
-- Gitter - https://gitter.im/rishabhgarg25699
+<br>
+  <a href="https://www.linkedin.com/in/rajat-sinha-522936140/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="200"></a>
+  <br>
+
+## Related
+
+[BeHance Portfolio](https://www.behance.net/rajat_sinha) - Graphic Designs
+
+## Support
+<p>
+  <a href="https://www.linkedin.com/in/rajat-sinha-522936140/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="60"></a>
+
+<br>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRpGSjGqcJMbNMsdDlHdslDHcFCvPTqFrDxVpwmxwSGdhFpFRshWBTkdTNJXBjqfJxLkB">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="60">
+</a>
+</p>
 
