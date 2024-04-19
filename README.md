@@ -16,7 +16,7 @@ Tools/Technologies: JavaScript, NodeJS, HTML, CSS, Jquery , Javascript , Bootstr
 ## Screenshots :crown:
 Desktop View             |  Mobile View
 :-------------------------:|:-------------------------:
-![](Photoes/Desktop.png)  |  ![](Photoes/mobile.jpg)
+![](Photos/Screenshot 2024-04-20 012907.png)  |  ![](Photos/Screenshot 2024-04-20 013002.png)
 
 
 ## Help Contributing Guides :bangbang:
